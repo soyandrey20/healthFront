@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import {StyleSheet, Text, View, Image, TouchableOpacity, Alert} from "react-native";
+import {StyleSheet, Text, View, Image, } from "react-native";
 import {TextInput} from "react-native-gesture-handler";
 import {getToken} from "../templates/Token";
 import {url, getGlobalUserName} from "../templates/Url";
